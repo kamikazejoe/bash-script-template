@@ -42,7 +42,7 @@ function error_msg
 		;;
 		
 		incomplete)
-			$ERRORMSG="This sript is a work in progress. The function you selected has not been completed yet."
+			ERRORMSG="This sript is a work in progress. The function you selected has not been completed yet."
 		;;
 		
 	esac
